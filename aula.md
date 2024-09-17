@@ -74,3 +74,7 @@ console.log(meta.value)
 ### Estrutura de repetição
 
 - while
+
+### Condicionais
+
+- switch
