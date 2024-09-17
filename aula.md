@@ -32,7 +32,41 @@ Constantes = (Não pode alterar o valor dentro do mesmo escopo)
 Strings (textos): "" '' ``
 Number: 2, 1.4
 Function
+Boolean = (true or false)
 
 ## Operadores:
 
 Operadores de atribuição de valores : Por exemplo =
+Operador de concatenação
+
+## Estrutura de dados:
+
+### Arrays:
+
+Uma lista que contém qualquer tipo de dado
+
+Exemplo de Array :
+
+let metas = ["Deivid", "Alô" ]
+console.log(metas[1] + " " + metas[0] )
+
+### Objetos:
+
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
+Todo objeto vai receber uma propriedade e valor
+
+Exemplo de Objeto : 
+
+let meta = {
+    value: 'Ler um Livro',
+    checked: true
+}
+console.log(meta.value)
+
+### Functions:
+
+- Criar, passar argumentos
+- Executar
+- arrow function / named function
