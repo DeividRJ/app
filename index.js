@@ -1,16 +1,9 @@
-let meta = {
-    value: 'ler um livro',  //uma meta
-    checked : true
+const start = () => {
+    let count = 1
+    while (count <= 10){
+        console.log (count)
+        count = count + 1
+    }
 }
 
-let metas = [
-    meta,
-    {
-        value: "Olá, Deivid",  //organização de muitas metas
-        checked: false
-    }
-]
-   
-
-console.log(metas[1].value)
- 
+start()

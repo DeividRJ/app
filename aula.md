@@ -70,3 +70,7 @@ console.log(meta.value)
 - Criar, passar argumentos
 - Executar
 - arrow function / named function
+
+### Estrutura de repetição
+
+- while
