@@ -78,3 +78,12 @@ console.log(meta.value)
 ### Condicionais
 
 - switch
+
+### Módulos em node.js:
+
+- Importação de módulos (require, CommonJS)
+- Biblioteca 'inquirer' para criar prompts alternativos
+
+## Programação assíncrona e Promises :
+
+- Uso de funções assíncronas (async/await)
