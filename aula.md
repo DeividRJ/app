@@ -36,8 +36,9 @@ Boolean = (true or false)
 
 ## Operadores:
 
-Operadores de atribuição de valores : Por exemplo =
-Operador de concatenação
+Operadores de atribuição de valores : =
+Operador de concatenação : +
+operadores de comparação ==, <>, <=, =>, !=  sempre vai retornar um boleano.
 
 ## Estrutura de dados:
 
@@ -78,6 +79,7 @@ console.log(meta.value)
 ### Condicionais
 
 - switch
+- if/else
 
 ### Módulos em node.js:
 
