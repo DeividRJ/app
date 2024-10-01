@@ -88,6 +88,13 @@ console.log(meta.value)
 
 - Importação de módulos (require, CommonJS)
 - Biblioteca 'inquirer' para criar prompts alternativos
+- FS (File system) módulo nativo do Node.js
+
+## JSON
+
+- Javascript Object Notation (.json)
+- JSON.parse() transforma de JSON para JS
+- JSON.stringfly() transforma de JS para JSON
 
 ## Programação assíncrona e Promises :
 
