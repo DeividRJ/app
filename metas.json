@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "value": "Andar 20 minutos por dia",
+    "checked": false
+  },
+  {
+    "value": "Treinar 2h por dia",
+    "checked": false
+  },
+  {
+    "value": "Estudar 3h por dia",
+    "checked": false
+  },
+  {
+    "value": "Dormir 8h por dia",
+    "checked": false
+  }
+]
