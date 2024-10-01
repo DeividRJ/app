@@ -39,12 +39,15 @@ Boolean = (true or false)
 Operadores de atribuição de valores : =
 Operador de concatenação : +
 operadores de comparação ==, <>, <=, =>, !=  sempre vai retornar um boleano.
+spread operator: ...
 
 ## Estrutura de dados:
 
 ### Arrays:
 
 Uma lista que contém qualquer tipo de dado
+
+Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 Exemplo de Array :
 
